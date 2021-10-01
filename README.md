@@ -7,6 +7,14 @@ I'm a Android and IOS developer but too develope games.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafacardososales&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafacardososales&layout=compact&langs_count=7&theme=merko"/>
 </div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-f" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+  <img align="center" alt="Rafa-d" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+  <img align="center" alt="Rafa-c" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="Rafa-u" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+  <img align="center" alt="Rafa-fi" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+  
+</div>
   
   ##
   
