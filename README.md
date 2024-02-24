@@ -13,6 +13,7 @@ I'm a Android and IOS developer but too develope games.
   <img align="center" alt="Rafa-c" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="Rafa-u" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
   <img align="center" alt="Rafa-fi" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+  <img align="center" alt="Rafa-fi" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
   
 </div>
   
