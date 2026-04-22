@@ -1,39 +1,83 @@
-Hello. My name is Rafael, I like programig, love codes.
-I'm a Android and IOS developer but too develope games.
+# Rafael Sales
 
+### Software Engineer • Mobile • Fullstack • Game Dev
+
+I build scalable applications, high-performance systems, and real-world digital products.
+
+---
+
+## 🧠 Profile
+
+Software developer with experience in mobile, web, and backend systems.  
+Focused on performance, scalability, and clean architecture.
+
+I turn ideas into production-ready applications — from UI to infrastructure.
+
+---
+
+## ⚙️ Tech Stack
+
+**Languages**  
+`Dart` • `JavaScript` • `TypeScript` • `C#` • `Java`
+
+**Frontend**  
+`React` • `Next.js` • `HTML` • `CSS`
+
+**Mobile**  
+`Flutter`
+
+**Backend & Infra**  
+`Node.js` • `Spring Boot` • `Firebase` • `Docker` • `Google Cloud`
+
+**Databases**  
+`PostgreSQL` • `MySQL` • `MongoDB` • `MariaDB`
+
+**Game Development**  
+`Unity`
+
+---
+
+## 📊 Engineering Activity
 
 <div align="center">
-  <a href="https://github.com/rafacardososales">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafacardososales&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafacardososales&layout=compact&langs_count=7&theme=merko"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rafacardososales&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=rafacardososales&theme=tokyonight"/>
 </div>
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Rafa-f" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  <img align="center" alt="Rafa-d" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-  <img align="center" alt="Rafa-c" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="Rafa-u" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-  <img align="center" alt="Rafa-fi" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-  <img align="center" alt="Rafa-fi" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Rafa-fi" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Rafa-fi" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align="center" alt="Rafa-fi" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img align="center" alt="Rafa-fi" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img align="center" alt="Rafa-fi" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
-  <img align="center" alt="Rafa-fi" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" />
-  <img align="center" alt="Rafa-fi" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img align="center" alt="Rafa-fi" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" />
-  <img align="center" alt="Rafa-fi" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-  <img align="center" alt="Rafa-fi" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Rafa-fi" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-  <img align="center" alt="Rafa-fi" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
-  <img align="center" alt="Rafa-fi" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
 
-</div>
-  
-  ##
-  
+---
+
+## 🚀 What I Build
+
+- 📱 Mobile applications (Android & iOS)
+- 🌐 Fullstack web platforms
+- ⚙️ APIs and backend systems (Node.js & Spring Boot)
+- 🎮 Games with Unity
+- 🧩 Scalable architectures
+
+---
+
+## 🎯 Current Focus
+
+- System design & scalability  
+- Performance optimization  
+- Advanced React & Next.js  
+- Building production-grade SaaS  
+
+---
+
+## 📫 Contact
+
 <div align="center"> 
-  <a href="https://www.instagram.com/rafaa_sales/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafael-sales-b4bb37152/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>  
+  <a href="https://www.linkedin.com/in/rafael-sales-b4bb37152/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/rafaa_sales/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Personal-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a> 
+</div>
+
+---
+
+## 💡 Engineering Mindset
+
+> I focus on building systems that are not only functional, but scalable, maintainable, and ready for real users.
